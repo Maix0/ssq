@@ -1,0 +1,13 @@
+[package]
+name = "ssq-sys"
+version = "0.1.0"
+authors = ["Maix0 <maix522@gmail.com>"]
+edition = "2018"
+license = "LGPL-2.1-or-later"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+[build-dependencies]
+bindgen = "0.56.0"
